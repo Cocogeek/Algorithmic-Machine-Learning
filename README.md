@@ -10,5 +10,5 @@ The notebooks are organised as follows :
 
 The first lab is a large-scale recommender system using ALS algorithm.  
 The second notebook is taken from a Kaggle challenge and aims at predicting house prices using the ElasticNet, Lasso and Ridge algorithms.  
-The third work deals with classification of images of plankton using a Convolutionnal Neural Network.  
+The third work deals with classification of plankton images using a Convolutionnal Neural Network.  
 Finally, the last one is about anomaly detection using LogisticRegression, Random Forest and Scalable Baysien Rule Lists.
